@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-MiniBossEncounterFix"
+name = "MiniBossEncounterFix"
 versionNumber = "1.0.0"
 description = "Fixes Miniboss with top screen health bars not properly progressing biome depth."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-MiniBossEncounterFix"
