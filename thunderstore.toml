@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "MiniBossEncounterFix"
 versionNumber = "1.0.0"
 description = "Fixes Miniboss with top screen health bars not properly progressing biome depth."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-MiniBossEncounterFix"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-MiniBossEncounterFix"
 containsNsfwContent = false
 
 [package.dependencies]
