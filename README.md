@@ -6,7 +6,6 @@
 
 - Fixes a bug where minibosses with top-screen health bars (like the Erymanthian Boar, Charybdis, and Talos) were not properly progressing the biome depth counter.
 - Ensures that game systems that rely on accurate biome depth (like NPC spawning) work as intended.
-- Also fixes this issue for the Typhon boss fight's eye and arm phases.
 
 ## Installation
 
