@@ -27,6 +27,7 @@ public.definition = {
     tooltip  = "Fixes Miniboss with top screen health bars not properly progressing biome depth.",
     default  = true,
     dataMutation = true,
+    modpackModule = true,
 }
 
 -- =============================================================================
